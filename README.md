@@ -1,2 +1,3 @@
 # Java GUI Practice
-Learning how to implement GUI using Swing from JAVA (Homework Assignment)
+Learning how to implement GUI using Swing from JAVA (Homework Assignment).
+Not exactly finished.
